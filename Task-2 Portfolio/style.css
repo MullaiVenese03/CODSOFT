@@ -320,6 +320,14 @@ header nav .nav-links a:hover {
     cursor: pointer;
 }
 
+.Copyright {
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    color: #e29578;
+    font-weight:bolder;
+}
+
 /* Media */
 
 @media(max-width:1200px) {
